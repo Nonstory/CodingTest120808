@@ -1,4 +1,6 @@
-﻿public class Solution
+﻿//출처 https://school.programmers.co.kr/learn/courses/30/lessons/120808
+
+public class Solution
 {
     //분자 : numer
     //분모 : denom
